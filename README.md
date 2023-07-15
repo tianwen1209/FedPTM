@@ -57,7 +57,7 @@ configs:
 ### Method to poison dataset
 [NeuBA](https://github.com/thunlp/NeuBA/tree/main)
 
-###path of backdoor with 20 classes
+### path of backdoor with 20 classes
 ```bash
  /home/yinqiu/pytorch-meta-dataset/checkpoints/base=cu_birds/val=cu_birds/arch=resnet18/method=standard/checkpoint.pth.tar
 ```
