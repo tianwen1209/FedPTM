@@ -2,7 +2,7 @@
 fedrated learning for pre-trained models
 
 ## related work
-[FedPCL] (https://arxiv.org/pdf/2209.10083.pdf)
+[FedPCL](https://arxiv.org/pdf/2209.10083.pdf)
 
 ## Commands to run FedPCL
 ```bash
@@ -15,9 +15,9 @@ configs:
 ```
 
 ## Fine-pruning Defense
-code for [Fine-pruning] (https://github.com/kangliucn/Fine-pruning-defense)
-paper for [Fine-pruning] (https://arxiv.org/pdf/2011.01767.pdf)
+code for [Fine-pruning](https://github.com/kangliucn/Fine-pruning-defense)
+paper for [Fine-pruning](https://arxiv.org/pdf/2011.01767.pdf)
 
 ## Draw activation map
-[code] (https://github.com/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/Keract-activation.ipynb)
+[code](https://github.com/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/Keract-activation.ipynb)
  
